@@ -1,0 +1,29 @@
+.cartArea{
+    width: 80%;
+    height: 330px;
+    box-shadow: 5px 5px 8px gray;
+    display: flex;
+}
+
+.cartImg{
+    width: 35%;
+    height: auto;
+    margin-top: 30px;
+    
+}
+
+.cartImg img{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 417px;
+    height: 254px;
+}
+
+.cartContent{
+    width: 55%;
+    height: auto;
+    margin-top: 30px;
+    margin-left: 100px;
+}
