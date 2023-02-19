@@ -32,6 +32,15 @@ const TopCart = () => {
                 <h5>{product[0]?.name}</h5>
                 <p>Ergonomic or cupe with on-oor controls up to 22 hours of tening time. Apple Wi crip & Closs</p>
                 <p>Price: {product[0]?.price}</p>
+                <div className='cartColorButton'>
+                    Color: 
+                    <button className='f'></button>
+                    <button className='s'></button>
+                    <button className='t'></button>
+                    <button className='fr'></button>
+
+                    
+                </div>
             </div>
         </div>
     );
